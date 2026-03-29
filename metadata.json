@@ -1,0 +1,5 @@
+{
+  "name": "AI Vehicle Recommender",
+  "description": "An AI-powered application that recommends cars based on your budget, location, and specific requirements. Enter your preferences, and let our Gemini-based model find the top 2-3 best matches for you.",
+  "requestFramePermissions": []
+}
